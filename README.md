@@ -23,6 +23,8 @@ This app allows users to add tasks with a due date and delete them when complete
 - JavaScript
 
 ---
+## 🌐 Live Demo
 
-## 📂 Project Structure
+👉 **View Demo:**  
+https://ctt-vaishnavi.github.io/ToDo-app/
 
